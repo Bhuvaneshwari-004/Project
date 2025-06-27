@@ -97,4 +97,5 @@ Future Improvements
 Integrate real-time data feeds.
 Use advanced machine learning models (e.g., XGBoost) for better predictions.
 Automate data refresh in Power BI Service.
+![{BE4910B9-9139-4869-8F40-291ADF708DB9}](https://github.com/user-attachments/assets/e698850d-70ac-4a37-97fd-36568bfefa49)
 
