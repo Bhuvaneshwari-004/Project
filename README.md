@@ -98,5 +98,3 @@ Integrate real-time data feeds.
 Use advanced machine learning models (e.g., XGBoost) for better predictions.
 Automate data refresh in Power BI Service.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.```
