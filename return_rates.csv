@@ -1,0 +1,125 @@
+category,geography,marketing_channel,return_rate
+Books,Asia,Email,0.11475409836065574
+Books,Asia,Organic,0.2549019607843137
+Books,Asia,Paid Ads,0.1724137931034483
+Books,Asia,Referral,0.4
+Books,Asia,Social Media,0.12307692307692308
+Books,Australia,Email,0.125
+Books,Australia,Organic,0.21052631578947367
+Books,Australia,Paid Ads,0.16666666666666666
+Books,Australia,Referral,0.0
+Books,Australia,Social Media,0.15384615384615385
+Books,Europe,Email,0.12962962962962962
+Books,Europe,Organic,0.14942528735632185
+Books,Europe,Paid Ads,0.125
+Books,Europe,Referral,0.23529411764705882
+Books,Europe,Social Media,0.15463917525773196
+Books,North America,Email,0.16901408450704225
+Books,North America,Organic,0.12213740458015267
+Books,North America,Paid Ads,0.140625
+Books,North America,Referral,0.3125
+Books,North America,Social Media,0.25892857142857145
+Books,South America,Email,0.1
+Books,South America,Organic,0.23076923076923078
+Books,South America,Paid Ads,0.0
+Books,South America,Referral,0.0
+Books,South America,Social Media,0.125
+Clothing,Asia,Email,0.09016393442622951
+Clothing,Asia,Organic,0.17045454545454544
+Clothing,Asia,Paid Ads,0.10112359550561797
+Clothing,Asia,Referral,0.13333333333333333
+Clothing,Asia,Social Media,0.15346534653465346
+Clothing,Australia,Email,0.14634146341463414
+Clothing,Australia,Organic,0.18867924528301888
+Clothing,Australia,Paid Ads,0.19047619047619047
+Clothing,Australia,Referral,0.25
+Clothing,Australia,Social Media,0.22916666666666666
+Clothing,Europe,Email,0.14948453608247422
+Clothing,Europe,Organic,0.15328467153284672
+Clothing,Europe,Paid Ads,0.15748031496062992
+Clothing,Europe,Referral,0.05555555555555555
+Clothing,Europe,Social Media,0.15827338129496402
+Clothing,North America,Email,0.16956521739130434
+Clothing,North America,Organic,0.13402061855670103
+Clothing,North America,Paid Ads,0.19047619047619047
+Clothing,North America,Referral,0.15714285714285714
+Clothing,North America,Social Media,0.19186046511627908
+Clothing,South America,Email,0.19230769230769232
+Clothing,South America,Organic,0.14634146341463414
+Clothing,South America,Paid Ads,0.034482758620689655
+Clothing,South America,Referral,0.0
+Clothing,South America,Social Media,0.02564102564102564
+Electronics,Asia,Email,0.1487603305785124
+Electronics,Asia,Organic,0.1134020618556701
+Electronics,Asia,Paid Ads,0.09090909090909091
+Electronics,Asia,Referral,0.06451612903225806
+Electronics,Asia,Social Media,0.10256410256410256
+Electronics,Australia,Email,0.0967741935483871
+Electronics,Australia,Organic,0.06521739130434782
+Electronics,Australia,Paid Ads,0.037037037037037035
+Electronics,Australia,Referral,0.3
+Electronics,Australia,Social Media,0.12
+Electronics,Europe,Email,0.10270270270270271
+Electronics,Europe,Organic,0.1291390728476821
+Electronics,Europe,Paid Ads,0.11258278145695365
+Electronics,Europe,Referral,0.175
+Electronics,Europe,Social Media,0.1598360655737705
+Electronics,North America,Email,0.14107883817427386
+Electronics,North America,Organic,0.12753623188405797
+Electronics,North America,Paid Ads,0.16666666666666666
+Electronics,North America,Referral,0.17567567567567569
+Electronics,North America,Social Media,0.15517241379310345
+Electronics,South America,Email,0.0
+Electronics,South America,Organic,0.21568627450980393
+Electronics,South America,Paid Ads,0.1
+Electronics,South America,Referral,0.5
+Electronics,South America,Social Media,0.24561403508771928
+Home,Asia,Email,0.16981132075471697
+Home,Asia,Organic,0.18181818181818182
+Home,Asia,Paid Ads,0.13725490196078433
+Home,Asia,Referral,0.3157894736842105
+Home,Asia,Social Media,0.13793103448275862
+Home,Australia,Email,0.09523809523809523
+Home,Australia,Organic,0.15625
+Home,Australia,Paid Ads,0.0
+Home,Australia,Referral,0.0
+Home,Australia,Social Media,0.16666666666666666
+Home,Europe,Email,0.20588235294117646
+Home,Europe,Organic,0.12883435582822086
+Home,Europe,Paid Ads,0.2159090909090909
+Home,Europe,Referral,0.1724137931034483
+Home,Europe,Social Media,0.1787709497206704
+Home,North America,Email,0.15753424657534246
+Home,North America,Organic,0.17721518987341772
+Home,North America,Paid Ads,0.12280701754385964
+Home,North America,Referral,0.125
+Home,North America,Social Media,0.15584415584415584
+Home,South America,Email,0.15
+Home,South America,Organic,0.1724137931034483
+Home,South America,Paid Ads,0.07142857142857142
+Home,South America,Referral,0.0
+Home,South America,Social Media,0.16129032258064516
+Toys,Asia,Email,0.16666666666666666
+Toys,Asia,Organic,0.11290322580645161
+Toys,Asia,Paid Ads,0.10810810810810811
+Toys,Asia,Referral,0.0
+Toys,Asia,Social Media,0.2037037037037037
+Toys,Australia,Email,0.2222222222222222
+Toys,Australia,Organic,0.18181818181818182
+Toys,Australia,Paid Ads,0.0
+Toys,Australia,Referral,0.5
+Toys,Australia,Social Media,0.16666666666666666
+Toys,Europe,Email,0.18181818181818182
+Toys,Europe,Organic,0.14736842105263157
+Toys,Europe,Paid Ads,0.13043478260869565
+Toys,Europe,Referral,0.07692307692307693
+Toys,Europe,Social Media,0.2077922077922078
+Toys,North America,Email,0.13157894736842105
+Toys,North America,Organic,0.09243697478991597
+Toys,North America,Paid Ads,0.14545454545454545
+Toys,North America,Referral,0.125
+Toys,North America,Social Media,0.1826086956521739
+Toys,South America,Email,0.125
+Toys,South America,Organic,0.12
+Toys,South America,Paid Ads,0.5714285714285714
+Toys,South America,Social Media,0.125
